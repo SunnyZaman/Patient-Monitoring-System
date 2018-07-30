@@ -3,6 +3,6 @@ The Patient Monitoring System is a program developed for alerting professionals 
 
 To run this application:
 
-javac MainMenu.java
+1) javac MainMenu.java
 
-java MainMenu
+2) java MainMenu
